@@ -4,9 +4,9 @@ Hello 👋 My name is Tabitha Muriithi
 Full stack web developer
 ------------------------
 
-* 🧠  I'm learning Ruby and Ruby on Rails
+* 🧠  I'm currently learning Ruby and Ruby on Rails
 * 🤝  I'm open to collaborating on React projects as well as ruby
-* ⚡  Fun fact: I am secretly she thor
+* ⚡  Fun fact: I am secretly a musician.
 
 ### Skills
 
