@@ -1,5 +1,5 @@
 Hello 👋 My name is Tabitha Muriithi.
-=================================
+================================
 
 Full stack web developer
 ------------------------
