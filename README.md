@@ -6,7 +6,7 @@ Full stack web developer
 
 * 🧠  I'm learning Ruby and Ruby on Rails
 * 🤝  I'm open to collaborating on React projects as well as ruby
-* ⚡  Fun fact: I am secretly a musician by mind and a dancer.
+* ⚡  Fun fact: I am secretly a musician by mind, a dancer and also do little of hicking.
 
 ### Skills
 
