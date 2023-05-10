@@ -4,7 +4,7 @@ Hi 👋 My name is Tabitha Muriithi
 Full stack web developer
 --------------------------------
 
-* 🧠  I'm currently learning AWS Cloud Services.
+* 🧠  I'm currently learning AWS Cloud Services and Angular.js .
 * 🤝  I'm open to collaborating on any kind of project and welcome and opportunity to learn and grow.
 * ⚡  Fun fact: I am secretly a musician by mind, a dancer and also do little of hicking.
 
