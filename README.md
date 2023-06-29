@@ -1,4 +1,4 @@
-Hi 👋 My name is Tabitha Muriithi M
+Hi 👋 My name is Tabitha Muriithi 
 ==========================================
 
 Full stack web developer
